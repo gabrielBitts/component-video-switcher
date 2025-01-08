@@ -13,15 +13,17 @@ Since it is Open Sourced forever, you can tweak the [original .json file](./Comp
 # How it works?
 It has 3 SN74CBTD3384CPWR buzz switchers that are activated by the 5v rail depending on the power switch you pressed where the specific led will light up and output the desired component video.
 
-This project aims to be a *SIMPLE* maintaining a good video quality with as little image noise as possible!
+This project aims to be **SIMPLE** maintaining a good video quality with **NO** or as **LITTLE** image noise as possible!
 
 - It was designed with retro consoles in mind.
-- It should NOT be used with more than one console turned on at the same time as it generates a lot of interference in the image!
+- It should ->**NOT**<- be used with more than one console turned on at the same time as it generates a lot of interference in the image!
 - A quality power supply of 5v and around 2a is required (I used a Xiaomi phone charger for extensive testing and everything worked correctly)
-- It is designed to be assembled with parts easily found on Aliexpress for cheap!
+- It is designed to be built with parts easily found on Aliexpress for cheap!
 
 # Nice to have (Help needed)
 It would be really cool to have a acrylic plate on top and bottom part or even a 3d printed case, wich would turn it into a beautiful cheap switcher, so if you want to help, tweak or improve feel free to contact me or open a issue!
+
+It's also important that you put a heatsink in the 7805 with the sizes 15x10x25 like this one: [Link](https://aliexpress.com/item/1005008087785677.html?spm=a2g0o.order_detail.order_detail_item.3.797c4c7fuEwGm3&gatewayAdapt=glo2bra)
 
 # Comparisons
 >Chinese box:
@@ -41,6 +43,8 @@ Component Switcher:
 
 # Outro
 > If you build by yourself, ask help to a friend or even sell, please let people know from where it came, it would make me pretty happy to know that my little project is helping people out!
+
+> I couldn't test with 8 and 16 bits consoles since I don't have a quality RGB to Component transcoder in hand 
 
 That's the prototype board and I still have 4, if you want one send me a message over [socials](https://gabnattz.com.br/)!
 ![img](./Images/proto.jpg)
