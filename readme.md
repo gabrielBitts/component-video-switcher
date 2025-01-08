@@ -11,7 +11,7 @@ The main inspiration I had was a [2007 post](https://www.engadget.com/2007-03-13
 Since it is Open Sourced forever, you can tweak the [original .json file](./Component%20Switcher%20V1/Component%20Switcher%20V1%20Rev1.2.json) with [EasyEDA](https://easyeda.com/) or similar and open an issue here if you find anything that could be improved!
 
 # How it works?
-It has 3 SN74CBTD3384CPWR buzz switchers that are activated by the 5v rail depending on the power switch you pressed where the specific led will light up and output the desired component video.
+It has 3 SN74CBTD3384CPWR bus switchers that are activated by the 5v rail depending on the power switch you pressed where the specific led will light up and output the desired component video.
 
 This project aims to be **SIMPLE** maintaining a good video quality with **NO** or as **LITTLE** image noise as possible!
 
